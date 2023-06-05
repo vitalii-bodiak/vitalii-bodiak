@@ -5,7 +5,7 @@
 <div>
 <h3>About me:</h3>
 <p>
-I am a beginner React Front-end developer. There is not much experience of robots with languages like Python, C#, C++, SQL. Now I am learning React, Redux and TS.
+I am a beginner React Front-end developer. I have experience of robots with languages like Python, C#, C++, SQL. Now I am learning React, Redux and TS.
 </p>
 </div>
 
