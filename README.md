@@ -11,8 +11,8 @@
 <h3>Follow me:</h3>
 
 <div display=flex>
-<a link="https://t.me/iwenrad"><img src="https://img.shields.io/badge/TELEGRAM-333333?style=for-the-badge&logo=TELEGRAM"></a>
-<a link="https://leetcode.com/vitalii-bodiak/"><img src="https://img.shields.io/badge/leetcode-333333?style=for-the-badge&logo=leetcode"></a>
+<a href="https://t.me/iwenrad"><img src="https://img.shields.io/badge/TELEGRAM-333333?style=for-the-badge&logo=TELEGRAM"></a>
+<a href="https://leetcode.com/vitalii-bodiak/"><img src="https://img.shields.io/badge/leetcode-333333?style=for-the-badge&logo=leetcode"></a>
 </div>
 
 <!--
