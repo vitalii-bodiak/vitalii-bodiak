@@ -24,6 +24,6 @@ I am a beginner React Front-end developer. I have experience of robots with lang
 <h3>Follow me:</h3>
 
 <div display=flex>
-<a link="https://t.me/iwenrad"><img src="https://img.shields.io/badge/TELEGRAM-333333?style=for-the-badge&logo=TELEGRAM"></a>
-<a link="https://leetcode.com/vitalii-bodiak/"><img src="https://img.shields.io/badge/leetcode-333333?style=for-the-badge&logo=leetcode"></a>
+<a link="https://t.me/iwenrad" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-333333?style=for-the-badge&logo=TELEGRAM"></a>
+<a link="https://leetcode.com/vitalii-bodiak/" target="_blank"><img src="https://img.shields.io/badge/leetcode-333333?style=for-the-badge&logo=leetcode"></a>
 </div>
