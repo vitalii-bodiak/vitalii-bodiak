@@ -1,14 +1,19 @@
-<h1 align=center>Hello, I'm Vitalii I'm beginner Front-End developer</h1>
+<h1 >Hello, I'm Vitalii</h1>
+
+<hr>
+
+<div>
+<h3>About me:</h3>
+<p>
+I am a beginner React Front-end developer. There is not much experience of robots with languages like Python, C#, C++, SQL. Now I am learning React, Redux and TS.
+</p>
+</div>
 
 <hr>
 
 <h3>My skills:</h3>
 
-![HTML](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=CSS3) ![SASS](https://img.shields.io/badge/SASS-333333?style=for-the-badge&logo=sass) ![JS](https://img.shields.io/badge/JS-333333?style=for-the-badge&logo=javascript) ![GIT](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git) ![GITHUB](https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=GITHUB) ![VITE](https://img.shields.io/badge/VITE-333333?style=for-the-badge&logo=VITE) ![WEBPACK](https://img.shields.io/badge/WEBPACK-333333?style=for-the-badge&logo=Webpack) ![FIGMA](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=Figma)
-
-<h3>Now studying:</h3>
-
-![REACT](https://img.shields.io/badge/REACT-333333?style=for-the-badge&logo=REACT) ![REDUX](https://img.shields.io/badge/REDUX-333333?style=for-the-badge&logo=REDUX) ![TS](https://img.shields.io/badge/TYPESCRIPT-333333?style=for-the-badge&logo=TYPESCRIPT) 
+![HTML](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=CSS3) ![SASS](https://img.shields.io/badge/SASS-333333?style=for-the-badge&logo=sass) ![JS](https://img.shields.io/badge/JS-333333?style=for-the-badge&logo=javascript) ![GIT](https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git) ![GITHUB](https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=GITHUB) ![VITE](https://img.shields.io/badge/VITE-333333?style=for-the-badge&logo=VITE) ![WEBPACK](https://img.shields.io/badge/WEBPACK-333333?style=for-the-badge&logo=Webpack) ![FIGMA](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=Figma) ![REACT](https://img.shields.io/badge/REACT-333333?style=for-the-badge&logo=REACT) ![REDUX](https://img.shields.io/badge/REDUX-333333?style=for-the-badge&logo=REDUX) ![TS](https://img.shields.io/badge/TYPESCRIPT-333333?style=for-the-badge&logo=TYPESCRIPT) 
 
 <h3>Plans for the future:</h3>
 
